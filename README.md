@@ -138,6 +138,36 @@
 
 ---
 
+## 🌐 Pairing Portal
+
+<p align="center">
+  <b>Atomic-md | WhatsApp Pairing Portal</b>
+</p>
+
+<p align="center">
+  Generate WhatsApp Pairing Codes and Session IDs for Atomic-md quickly and securely.
+</p>
+
+<p align="center">
+  <a href="https://github.com/maxamedawil703-cmyk/Atomic-md">
+    <img src="https://img.shields.io/badge/⚛️%20Open%20Pairing%20Portal-0ea5e9?style=for-the-badge" height="42"/>
+  </a>
+</p>
+
+```bash
+npm run portal
+# Visit → http://localhost:3000
+```
+
+| Feature | Description |
+|---------|-------------|
+| 🔢 Pair Code | 8-digit WhatsApp pairing code |
+| 📷 QR Code | Instant QR scan linking |
+| 🔑 Session ID | Copy & deploy to Heroku/VPS |
+| 🌓 Dark / Light | Premium responsive UI |
+
+---
+
 ## 🚀 HOW TO DEPLOY 𝘼𝙩𝙤𝙢𝙞𝙘-𝙢𝙙 ⚛️
 
 ### 1️⃣ FIRST STEP — FORK THE REPO

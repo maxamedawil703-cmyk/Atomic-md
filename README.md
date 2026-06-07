@@ -1,54 +1,84 @@
 # ⚛️ Atomic-md
 
-<div align="center">
+<h1 align="center">⚛️ 𝘼𝙩𝙤𝙢𝙞𝙘-𝙢𝙙</h1>
 
-<img src="assets/atomic-md-banner.png" alt="Atomic-md Banner" width="100%"/>
+<p align="center">
+  <a href="https://github.com/maxamedawil703-cmyk/Atomic-md">
+    <img alt="Atomic-md Banner" src="assets/atomic-md-banner.png" width="100%">
+  </a>
+</p>
 
-<br/><br/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=0EA5E9&center=true&vCenter=true&width=920&height=90&lines=THIS+IS+ATOMIC-MD;PROFESSIONAL+WHATSAPP+BOT;MULTI+DEVICE+%7C+BAILEYS+POWERED;MODULAR+%7C+SECURE+%7C+SELF-HOSTED" alt="Typing SVG" />
+  </a>
+</p>
 
-<img src="assets/atomic-md-logo.png" alt="Atomic-md Logo" width="120"/>
+<p align="center">
+  <a href="https://github.com/maxamedawil703-cmyk/Atomic-md">
+    <img alt="Atomic-md Logo" height="180" src="assets/atomic-md-logo.png">
+  </a>
+</p>
 
-# ⚛️ Atomic-md
+<p align="center">
+  I introduce <b>Atomic-md</b>, a professional WhatsApp Multi-Device bot — built for power, control, and performance.
+</p>
 
-### *Professional WhatsApp Multi-Device Bot*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maxamedawil703-cmyk&label=Atomic-md%20Views&color=0e75b6&style=for-the-badge" alt="Atomic-md Visitor Count"/>
+</p>
 
-**Powerful. Modular. Self-hosted. Built for the future.**
+<p align="center">
+  <a href="https://github.com/maxamedawil703-cmyk/Atomic-md/stargazers"><img src="https://img.shields.io/github/stars/maxamedawil703-cmyk/Atomic-md?style=for-the-badge&logo=github&color=1d4ed8" alt="Stars"/></a>
+  <a href="https://github.com/maxamedawil703-cmyk/Atomic-md/network/members"><img src="https://img.shields.io/github/forks/maxamedawil703-cmyk/Atomic-md?style=for-the-badge&logo=github&color=1e3a8a" alt="Forks"/></a>
+  <a href="https://github.com/maxamedawil703-cmyk/Atomic-md/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-1e40af?style=for-the-badge" alt="License"/></a>
+  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-%3E%3D18-2563eb?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
+  <a href="https://github.com/WhiskeySockets/Baileys"><img src="https://img.shields.io/badge/Baileys-MD-06b6d4?style=for-the-badge" alt="Baileys"/></a>
+  <img src="https://img.shields.io/badge/Version-1.0.0-0ea5e9?style=for-the-badge" alt="Version"/>
+</p>
 
-<br/>
+<p align="center">
+  <a href="#-about">About</a> •
+  <a href="#-features">Features</a> •
+  <a href="#-preview">Preview</a> •
+  <a href="#-how-to-deploy-atomic-md-">Deploy</a> •
+  <a href="#-commands">Commands</a> •
+  <a href="#-developer">Developer</a> •
+  <a href="#-support">Support</a>
+</p>
 
-[![Version](https://img.shields.io/badge/version-1.0.0-0ea5e9?style=for-the-badge)](https://github.com/maxamedawil703-cmyk/Atomic-md/releases)
-[![License](https://img.shields.io/badge/license-MIT-1e40af?style=for-the-badge)](LICENSE)
-[![Node.js](https://img.shields.io/badge/node-%3E%3D18-2563eb?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Baileys](https://img.shields.io/badge/Baileys-WhatsApp%20MD-06b6d4?style=for-the-badge)](https://github.com/WhiskeySockets/Baileys)
-[![Stars](https://img.shields.io/github/stars/maxamedawil703-cmyk/Atomic-md?style=for-the-badge&logo=github&color=1d4ed8)](https://github.com/maxamedawil703-cmyk/Atomic-md/stargazers)
-[![Forks](https://img.shields.io/github/forks/maxamedawil703-cmyk/Atomic-md?style=for-the-badge&logo=github&color=1e3a8a)](https://github.com/maxamedawil703-cmyk/Atomic-md/network/members)
-[![Issues](https://img.shields.io/github/issues/maxamedawil703-cmyk/Atomic-md?style=for-the-badge&logo=github&color=172554)](https://github.com/maxamedawil703-cmyk/Atomic-md/issues)
+---
 
-<br/>
+<p align="center">
+  <b>Atomic-md</b> Support Deploy On...
+</p>
 
-[**🚀 Get Started**](#-installation) ·
-[**📖 Commands**](#-commands) ·
-[**☁️ Deploy**](#️-deployment) ·
-[**🤝 Contribute**](#-contributing) ·
-[**📬 Contact**](#-contact--support)
+<p align="center">
+  <a href="#-vps--local"><img src="https://img.shields.io/badge/VPS%20%2F%20Local-0f172a?style=for-the-badge&logo=linux&logoColor=0ea5e9" alt="VPS"/></a>
+  <a href="https://heroku.com/deploy?template=https://github.com/maxamedawil703-cmyk/Atomic-md"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/></a>
+  <a href="#-railway--render"><img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=0ea5e9" alt="Railway"/></a>
+  <a href="#-railway--render"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=0ea5e9" alt="Render"/></a>
+  <a href="#-vps--local"><img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2"/></a>
+</p>
 
-</div>
+<p align="center"><b>For Developer — Please Support Here 🙏✔️</b></p>
+
+<p align="center">
+  <a href="https://github.com/maxamedawil703-cmyk"><img src="https://img.shields.io/badge/GitHub-Profile-0f172a?style=for-the-badge&logo=github&logoColor=0ea5e9" alt="GitHub"/></a>
+  <a href="https://wa.me/252637824865"><img src="https://img.shields.io/badge/WhatsApp-Contact-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://github.com/maxamedawil703-cmyk/Atomic-md/issues"><img src="https://img.shields.io/badge/Report-Bug-1e40af?style=for-the-badge&logo=githubissues&logoColor=white" alt="Issues"/></a>
+  <a href="https://github.com/maxamedawil703-cmyk/Atomic-md/fork"><img src="https://img.shields.io/badge/Fork-Repo-2563eb?style=for-the-badge&logo=git&logoColor=white" alt="Fork"/></a>
+</p>
 
 ---
 
 ## 📌 About
 
-**Atomic-md** is a next-generation WhatsApp bot engineered with precision, performance, and professionalism. Built on the powerful [Baileys](https://github.com/WhiskeySockets/Baileys) library, it delivers a secure, modular, and fully self-hosted automation experience.
+**Atomic-md** is a next-generation WhatsApp bot built on [Baileys](https://github.com/WhiskeySockets/Baileys). Every command runs **locally on your server** — no remote code, no hidden scripts, full transparency.
 
-Unlike bloated bots that rely on remote code execution, **Atomic-md** runs **100% locally** — giving you full control, transparency, and reliability.
-
-<div align="center">
-
-| ⚡ Fast | 🔒 Secure | 🧩 Modular | ☁️ Deploy-Ready |
+| ⚛️ Atomic Engine | 🔒 Secure Core | 🧩 Plugin System | ☁️ Cloud Ready |
 |:---:|:---:|:---:|:---:|
-| Lightweight core | No remote `eval()` | Plugin architecture | Heroku · VPS · Railway |
-
-</div>
+| Fast & lightweight | No remote `eval()` | Easy to extend | Heroku · VPS · Railway |
 
 ---
 
@@ -56,41 +86,41 @@ Unlike bloated bots that rely on remote code execution, **Atomic-md** runs **100
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🤖 Core Engine
-- ⚛️ Professional plugin command system
-- 📱 QR code pairing — no session service needed
-- 🔄 Auto-reconnect & session persistence
-- 🌐 Built-in health-check web server
+### 🤖 Bot Engine
+- ⚛️ Professional plugin architecture
+- 📱 Built-in QR code pairing
+- 🔄 Auto-reconnect & session save
+- 🌐 Health-check web server
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 👥 Group Management
-- 🦵 Kick, promote & demote members
-- 📢 Tag all group participants
-- 📋 Detailed group information
+### 👥 Group Tools
+- 🦵 Kick · Promote · Demote
+- 📢 Tag all members
+- 📋 Group information
 - 🚫 Anti-link protection
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🎨 Media Tools
-- 🖼️ Image-to-sticker conversion
-- ✨ Custom sticker pack support
-- 📦 Lightweight Jimp processing
+### 🎨 Media
+- 🖼️ Image to sticker
+- ✨ Custom sticker packs
+- 📦 Fast Jimp processing
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🔐 Owner Controls
-- 🔒 Public / private mode toggle
-- 🚫 Ban & unban users
-- 👤 Owner-only command access
-- ⚙️ Full environment configuration
+### 🔐 Owner Panel
+- 🔒 Public / Private mode
+- 🚫 Ban & Unban users
+- 👤 Owner-only commands
+- ⚙️ Full `.env` control
 
 </td>
 </tr>
@@ -100,91 +130,41 @@ Unlike bloated bots that rely on remote code execution, **Atomic-md** runs **100
 
 ## 🖼️ Preview
 
-<div align="center">
+<p align="center">
+  <img src="assets/atomic-md-preview.png" alt="Atomic-md Preview" width="88%">
+</p>
 
-<img src="assets/atomic-md-preview.png" alt="Atomic-md Terminal Preview" width="85%"/>
-
-<sub>⚛️ Atomic-md running in terminal — scan QR and go live in seconds</sub>
-
-</div>
+<p align="center"><sub>⚛️ Atomic-md terminal — scan QR and go live in seconds</sub></p>
 
 ---
 
-## 🏗️ Architecture
+## 🚀 HOW TO DEPLOY 𝘼𝙩𝙤𝙢𝙞𝙘-𝙢𝙙 ⚛️
 
-```mermaid
-flowchart LR
-    A[📱 WhatsApp] <--> B[Baileys Engine]
-    B --> C[Message Handler]
-    C --> D{Command Router}
-    D --> E[General]
-    D --> F[Group]
-    D --> G[Media]
-    D --> H[Owner]
-    C --> I[Event System]
-    I --> J[Anti-Link · Calls]
-    B --> K[(Auth Session)]
-    C --> L[(JSON Database)]
-```
+### 1️⃣ FIRST STEP — FORK THE REPO
 
-<details>
-<summary><b>📁 Project Structure</b></summary>
+<p align="center">
+  <a href="https://github.com/maxamedawil703-cmyk/Atomic-md/fork">
+    <img src="https://img.shields.io/badge/⭐%20FORK%20REPO-1e40af?style=for-the-badge&logo=github&logoColor=white" height="42"/>
+  </a>
+</p>
 
-<br/>
-
-```
-Atomic-md/
-├── 📄 index.js              # Application entry point
-├── ⚙️ config.js             # Environment configuration
-├── 📂 commands/             # Plugin-based commands
-│   ├── general/             # menu · ping · alive
-│   ├── group/               # kick · promote · tagall
-│   ├── media/               # sticker · take
-│   └── owner/               # mode · ban · unban
-├── 📂 lib/                  # Core engine libraries
-├── 📂 events/               # Event handlers
-├── 📂 assets/               # Branding & media
-├── 🔐 auth/                 # Session storage (auto-generated)
-└── 💾 data/                 # JSON database
-```
-
-</details>
+<p align="center">⭐ Star the repo before forking — it helps Atomic-md grow!</p>
 
 ---
 
-## 📋 Prerequisites
+### 2️⃣ SECOND STEP — SETUP CONFIG
 
-| Requirement | Details |
-|-------------|---------|
-| 🟢 **Node.js** | v18.0.0 or higher |
-| 📦 **npm** | Comes with Node.js |
-| 📱 **WhatsApp** | Active account for pairing |
-| 💻 **Terminal** | Windows, macOS, or Linux |
+<p align="center">
+  <a href="https://github.com/maxamedawil703-cmyk/Atomic-md/blob/main/set.env.example">
+    <img src="https://img.shields.io/badge/📄%20VIEW%20CONFIG-2563eb?style=for-the-badge&logo=git&logoColor=white" height="42"/>
+  </a>
+</p>
 
----
-
-## 🚀 Installation
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/maxamedawil703-cmyk/Atomic-md.git
-cd Atomic-md
-```
-
-### 2️⃣ Install Dependencies
-
-```bash
-npm install
-```
-
-### 3️⃣ Configure Environment
+Copy and edit your environment file:
 
 ```bash
 cp set.env.example set.env
 ```
-
-Edit `set.env` with your details:
 
 ```env
 OWNER_NUMBER=252637824865
@@ -197,43 +177,48 @@ GROUP_ANTILINK=no
 ANTICALL=no
 ```
 
-### 4️⃣ Launch the Bot
+---
+
+### 3️⃣ THIRD STEP — INSTALL & PAIR
+
+**If running locally / VPS:**
 
 ```bash
+git clone https://github.com/maxamedawil703-cmyk/Atomic-md.git
+cd Atomic-md
+npm install
 npm start
 ```
 
-### 5️⃣ Pair WhatsApp
+<p align="center">
+  <img src="https://img.shields.io/badge/📱%20SCAN%20QR%20CODE-0ea5e9?style=for-the-badge&logo=whatsapp&logoColor=white" height="42"/>
+</p>
 
 1. Open **WhatsApp** on your phone
 2. Go to **Settings → Linked Devices**
 3. Tap **Link a Device**
-4. Scan the QR code shown in your terminal
+4. Scan the QR code in your terminal
 
-> ✅ Once connected, you'll see: `Atomic-md is online!`
+> ✅ Success message: `Atomic-md is online!`
 
 ---
 
-## ☁️ Deployment
+### ☁️ Heroku Deploy
 
-<details>
-<summary><b>🟣 Heroku</b></summary>
+<p align="center">
+  <a href="https://heroku.com/deploy?template=https://github.com/maxamedawil703-cmyk/Atomic-md">
+    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
+  </a>
+</p>
 
-<br/>
+**Don't have a Heroku account?**
+<a href="https://signup.heroku.com">
+  <img src="https://img.shields.io/badge/Create%20Heroku%20Account-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+</a>
 
-1. Fork this repository
-2. Create a new Heroku app
-3. Set environment variables from `set.env.example`
-4. Deploy — `Procfile` starts the bot automatically
+---
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maxamedawil703-cmyk/Atomic-md)
-
-</details>
-
-<details>
-<summary><b>🟢 VPS / Local (PM2)</b></summary>
-
-<br/>
+### 🖥️ VPS / Local
 
 ```bash
 npm install -g pm2
@@ -243,74 +228,67 @@ pm2 save
 pm2 startup
 ```
 
-</details>
+---
 
-<details>
-<summary><b>🔵 Railway / Render</b></summary>
-
-<br/>
+### 🔵 Railway / Render
 
 1. Connect your GitHub repository
-2. Set `OWNER_NUMBER` and other env vars
-3. Build command: `npm install`
-4. Start command: `npm start`
-
-</details>
+2. Set environment variables from `set.env.example`
+3. Build: `npm install`
+4. Start: `npm start`
 
 ---
 
 ## 📖 Commands
 
-<div align="center">
+<p align="center"><b>⚛️ Atomic-md Command List</b></p>
 
-### 🌐 General
-
-| Command | Description | Access |
-|---------|-------------|--------|
-| `.menu` | Display full command menu | Everyone |
-| `.alive` | Check bot status & uptime | Everyone |
-| `.ping` | Test response latency | Everyone |
-
-### 👥 Group Admin
+### 🌐 General Commands
 
 | Command | Description | Access |
-|---------|-------------|--------|
-| `.kick @user` | Remove a group member | Admin |
-| `.promote @user` | Promote member to admin | Admin |
-| `.demote @user` | Demote a group admin | Admin |
-| `.tagall` | Mention all participants | Admin |
-| `.groupinfo` | Show group details | Everyone |
+|:--------|:------------|:------:|
+| `.menu` | Show full command menu | 🌍 All |
+| `.alive` | Bot status & uptime | 🌍 All |
+| `.ping` | Check response speed | 🌍 All |
 
-### 🎨 Media
+### 👥 Group Commands
 
 | Command | Description | Access |
-|---------|-------------|--------|
-| `.sticker` | Convert image to sticker *(reply)* | Everyone |
-| `.take` | Create custom sticker *(reply)* | Everyone |
+|:--------|:------------|:------:|
+| `.kick @user` | Remove a member | 👑 Admin |
+| `.promote @user` | Promote to admin | 👑 Admin |
+| `.demote @user` | Demote admin | 👑 Admin |
+| `.tagall` | Mention everyone | 👑 Admin |
+| `.groupinfo` | Group details | 🌍 All |
 
-### 🔐 Owner
+### 🎨 Media Commands
 
 | Command | Description | Access |
-|---------|-------------|--------|
-| `.mode public` | Enable public mode | Owner |
-| `.mode private` | Enable private mode | Owner |
-| `.ban @user` | Ban user from bot | Owner |
-| `.unban @user` | Remove user ban | Owner |
+|:--------|:------------|:------:|
+| `.sticker` | Image → sticker *(reply)* | 🌍 All |
+| `.take` | Custom sticker *(reply)* | 🌍 All |
 
-</div>
+### 🔐 Owner Commands
+
+| Command | Description | Access |
+|:--------|:------------|:------:|
+| `.mode public` | Enable public mode | 🔒 Owner |
+| `.mode private` | Enable private mode | 🔒 Owner |
+| `.ban @user` | Ban a user | 🔒 Owner |
+| `.unban @user` | Unban a user | 🔒 Owner |
 
 ---
 
-## 🧩 Create Your Own Command
+## 🧩 Add Your Own Command
 
-Add a new file inside `commands/<category>/`:
+Create `commands/<category>/yourcommand.js`:
 
 ```js
 module.exports = {
   name: 'hello',
   description: 'Greet users',
-  ownerOnly: false,   // optional
-  groupOnly: false,   // optional
+  ownerOnly: false,
+  groupOnly: false,
   run: async ({ sock, msg, config }) => {
     await sock.sendMessage(msg.key.remoteJid, {
       text: `⚛️ Hello from *${config.botName}*!`,
@@ -319,7 +297,27 @@ module.exports = {
 };
 ```
 
-Restart the bot — your command loads automatically. No extra wiring needed.
+Restart the bot — your plugin loads automatically.
+
+---
+
+## 📁 Project Structure
+
+```
+Atomic-md/
+├── 📄 index.js          # Entry point
+├── ⚙️ config.js         # Configuration
+├── 📂 commands/         # Plugin commands
+│   ├── general/         # menu · ping · alive
+│   ├── group/           # kick · promote · tagall
+│   ├── media/           # sticker · take
+│   └── owner/           # mode · ban · unban
+├── 📂 lib/              # Core engine
+├── 📂 events/           # Event handlers
+├── 📂 assets/           # Branding images
+├── 🔐 auth/             # Session (auto-generated)
+└── 💾 data/             # JSON database
+```
 
 ---
 
@@ -329,81 +327,103 @@ Restart the bot — your command loads automatically. No extra wiring needed.
 |----------|-------------|---------|
 | `OWNER_NUMBER` | Owner phone (no `+`) | — |
 | `OWNER_NAME` | Owner display name | `Owner` |
-| `BOT_NAME` | Bot display name | `Atomic-md` |
+| `BOT_NAME` | Bot name | `Atomic-md` |
 | `PREFIX` | Command prefix | `.` |
-| `PUBLIC_MODE` | Public access (`yes`/`no`) | `yes` |
-| `PM_PERMIT` | Block PM when private | `no` |
-| `GROUP_ANTILINK` | Delete links in groups | `no` |
+| `PUBLIC_MODE` | Public access | `yes` |
+| `PM_PERMIT` | Block PM in private | `no` |
+| `GROUP_ANTILINK` | Delete group links | `no` |
 | `ANTICALL` | Auto-reject calls | `no` |
-| `SESSION_ID` | Optional session string | — |
+| `SESSION_ID` | Optional session | — |
+
+---
+
+## 👨‍💻 Developer
+
+<p align="center"><b>DEVELOPERS</b></p>
+
+<table align="center">
+  <tr>
+    <th align="center">Atomic-md</th>
+    <th align="center">Lead Developer</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/maxamedawil703-cmyk/Atomic-md">
+        <img src="assets/atomic-md-logo.png" width="120" alt="Atomic-md"/>
+      </a>
+      <br/>
+      <b>Atomic-md Bot</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/maxamedawil703-cmyk">
+        <img src="https://github.com/maxamedawil703-cmyk.png" width="120" alt="Developer"/>
+      </a>
+      <br/>
+      <b>𝗦ԩĕ𝗶𝗸𝗵 ᤂ𝗗𝗿𝗶𝗲𝗻𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ</b>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://wa.me/252637824865">
+    <img src="https://img.shields.io/badge/Contact%20Developer%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
 ---
 
 ## 🤝 Contributing
 
-Contributions make **Atomic-md** better for everyone. We welcome:
+Contributions are welcome! Help make **Atomic-md** even better.
 
-- 🐛 Bug reports & fixes
-- ✨ New commands & features
-- 📝 Documentation improvements
-- 🎨 UI/UX enhancements
-
-### How to Contribute
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **Push** to the branch (`git push origin feature/amazing-feature`)
-5. **Open** a Pull Request
-
-Please read our contribution guidelines before submitting.
+1. 🍴 Fork the repository
+2. 🌿 Create a feature branch
+3. 💾 Commit your changes
+4. 🚀 Push and open a Pull Request
 
 ---
 
-## 📬 Contact & Support
+## 📬 Support
 
-<div align="center">
+<p align="center">
 
-| Channel | Link |
-|---------|------|
+| | Link |
+|:---:|:---|
 | 📦 **Repository** | [github.com/maxamedawil703-cmyk/Atomic-md](https://github.com/maxamedawil703-cmyk/Atomic-md) |
 | 🐛 **Issues** | [Report a Bug](https://github.com/maxamedawil703-cmyk/Atomic-md/issues) |
 | 💬 **Discussions** | [GitHub Discussions](https://github.com/maxamedawil703-cmyk/Atomic-md/discussions) |
-| 👤 **Owner** | 𝗦ԩĕ𝗶𝗸𝗵 ᤂ𝗗𝗿𝗶𝗲𝗻𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ |
-| 📱 **WhatsApp** | `+252 637 824865` |
+| 📱 **WhatsApp** | [+252 637 824865](https://wa.me/252637824865) |
 
-<br/>
+</p>
 
-⭐ **Star this repo** if you find Atomic-md useful — it helps the project grow!
-
-</div>
+<p align="center">⭐ <b>Star this repository</b> if Atomic-md helps you — every star counts!</p>
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License** — free to use, modify, and distribute.
+The WhatsApp Bot **Atomic-md** ⚛️ is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-See the [LICENSE](LICENSE) file for full details.
-
----
-
-## ⚠️ Disclaimer
-
-> This bot uses the **unofficial WhatsApp Web API** via Baileys. Use responsibly and in accordance with [WhatsApp's Terms of Service](https://www.whatsapp.com/legal/terms-of-service). The developers of **Atomic-md** are not responsible for any account restrictions, bans, or misuse of this software.
+💫 **THANK YOU FOR CHOOSING Atomic-md** 💫
 
 ---
 
-<div align="center">
+## ⚠️ Reminder
 
-**⚛️ Built with precision. Powered by Atomic-md.**
+- This bot uses the unofficial WhatsApp Web API via Baileys. Use responsibly.
+- Follow [WhatsApp Terms of Service](https://www.whatsapp.com/legal/terms-of-service).
+- The developers are not responsible for account restrictions or misuse.
 
-<sub>© 2026 Atomic-md · All rights reserved.</sub>
+---
 
-<br/>
+<p align="center">
+  <b>⚛️ Built with precision. Powered by Atomic-md.</b>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Atomic--md-0ea5e9?style=flat-square&logo=github)](https://github.com/maxamedawil703-cmyk/Atomic-md)
-[![MIT](https://img.shields.io/badge/License-MIT-1e40af?style=flat-square)](LICENSE)
-[![Made with Love](https://img.shields.io/badge/Made%20with-⚛️%20Atomic--md-2563eb?style=flat-square)](https://github.com/maxamedawil703-cmyk/Atomic-md)
+<p align="center">
+  <a href="https://github.com/maxamedawil703-cmyk/Atomic-md"><img src="https://img.shields.io/badge/GitHub-Atomic--md-0ea5e9?style=flat-square&logo=github" alt="GitHub"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-1e40af?style=flat-square" alt="MIT"/></a>
+  <img src="https://img.shields.io/badge/Made%20with-⚛️%20Atomic--md-2563eb?style=flat-square" alt="Atomic-md"/>
+</p>
 
-</div>
+<p align="center"><sub>© 2026 Atomic-md · All rights reserved.</sub></p>
